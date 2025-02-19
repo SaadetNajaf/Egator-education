@@ -11,7 +11,7 @@ This project is a fully responsive educational platform website, designed to off
 ✅ **Frequently Asked Questions** – A comprehensive list of questions answered to help users navigate the platform.  
 ✅ **Contact Page** – A dedicated section to allow prospective students to get in touch for more information.  
 
-## 🌍 Technologies Used
+## 🔧 Technologies Used
 
 - **HTML** – Structured the content and created semantic elements.  
 - **CSS** – Styled the webpage to create a modern and visually appealing design.  

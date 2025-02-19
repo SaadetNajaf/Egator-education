@@ -20,7 +20,7 @@ This project is a fully responsive educational platform website, designed to off
 
 ## 🔍 Preview
 
-![Egator-Education](egator.gif)
+![Egator-Education](egator-education.gif)
 
 ## 📞 Contact
 

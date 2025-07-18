@@ -8,14 +8,19 @@ This project is a fully responsive educational platform website, designed to off
 
 ✅ **Home Page**
 A welcoming introduction to the platform with a catchy headline and a brief description of the site’s purpose.  
+
 ✅ **Courses Page**
 Lists the popular courses available for students with detailed descriptions and direct links to learn more.  
+
 ✅ **Categories Section**
 Showcases various course categories such as **Blockchain**, **Graphic Design**, **Finance**, and more.  
+
 ✅ **Testimonials**
 Students' testimonials on how the courses helped them achieve their career goals.  
+
 ✅ **Frequently Asked Questions**
 A comprehensive list of questions answered to help users navigate the platform.  
+
 ✅ **Contact Page**
 A dedicated section to allow prospective students to get in touch for more information.  
 
